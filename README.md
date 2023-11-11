@@ -1,2 +1,2 @@
 # Leet-codes-sql-Solutions
-Leet Codes SQL Solution
+Leet Codes SQL Solutions
